@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="../../../assets/css/all.min.css">
+<link rel="stylesheet" href="../../../assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../../assets/css/venobox.min.css">
+<link rel="stylesheet" href="../../../assets/css/animated_barfiller.css">
+<link rel="stylesheet" href="../../../assets/css/slick.css">
+<link rel="stylesheet" href="../../../assets/css/animate.css">
+<link rel="stylesheet" href="../../../assets/css/nice-select.css">
+<link rel="stylesheet" href="../../../assets/css/spacing.css">
+<link rel="stylesheet" href="../../../assets/css/style.css">
+<link rel="stylesheet" href="../../../assets/css/responsive.css">

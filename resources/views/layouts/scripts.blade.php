@@ -1,0 +1,11 @@
+<script src="../../../assets/js/jquery-3.6.3.min.js"></script>
+<script src="../../../assets/js/bootstrap.bundle.min.js"></script>
+<script src="../../../assets/js/Font-Awesome.js"></script>
+<script src="../../../assets/js/venobox.min.js"></script>
+<script src="../../../assets/js/slick.min.js"></script>
+<script src="../../../assets/js/wow.min.js"></script>
+<script src="../../../assets/js/jquery.countup.min.js"></script>
+<script src="../../../assets/js/animated_barfiller.js"></script>
+<script src="../../../assets/js/sticky_sidebar.js"></script>
+<script src="../../../assets/js/jquery.nice-select.min.js"></script>
+<script src="../../../assets/js/main.js"></script>
